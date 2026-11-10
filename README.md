@@ -1,6 +1,6 @@
 # California Solar Generation and Grid CO₂ Intensity
 
-Final project for my Machine Learning for Climate course at Columbia University.
+Final project for my Computing for Climate course at Columbia University.
 
 ## Question
 California has dramatically increased its share of solar generation since 2014. Does the relationship between solar energy share and grid CO₂ intensity weaken in winter, when solar output is lower?
